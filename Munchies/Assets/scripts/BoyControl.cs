@@ -23,7 +23,7 @@ public class BoyControl : MonoBehaviour {
 	// Update is called once per frame
 	void FixedUpdate () {
 		Vector3 rawPosition = cam.ScreenToWorldPoint (Input.mousePosition);
-		Vector3 targetPosition = new Vector3 (rawPosition.x, -3.5f, 0.0f);
+		Vector3 targetPosition = new Vector3 (rawPosition.x, -4.5f, 0.0f);
 		float targetWidth = Mathf.Clamp (targetPosition.x, -maxWidth, maxWidth);
 		targetPosition = new Vector3 (targetWidth, targetPosition.y, targetPosition.z);
 		GetComponent<Rigidbody2D>().MovePosition (targetPosition);
