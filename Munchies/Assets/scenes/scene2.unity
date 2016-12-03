@@ -524,7 +524,7 @@ GameObject:
   - component: {fileID: 355417747}
   - component: {fileID: 355417746}
   m_Layer: 0
-  m_Name: frame-4
+  m_Name: Monster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
