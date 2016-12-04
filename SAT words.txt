@@ -1,0 +1,100 @@
+1.abbreviate -- (v) to shorten, abridge 
+2.abstinence -- (n) the act of refraining from pleasurable activity, e.g., eating, drinking 
+3.adulation -- (n) high praise 
+4.adversity -- (n) misfortune, an unfavorable turn of events 
+5.aesthetic -- (adj) pertaining to beauty or the arts 
+6.amicable -- (adj) friendly, agreeable 
+7.anachronistic -- (adj) out-of-date, not attributed to the correct historical period 
+8.anecdote -- (n) short, usually funny account of an event 
+9.anonymous -- (adj) nameless, without a disclosed identity 
+10.antagonist -- (n) foe, opponent, adversary 
+11.arid -- (adj) extremely dry or deathly boring 
+12.assiduous -- (adj) persistent, hard-working 
+13.asylum -- (n) sanctuary, shelter, place of refuge 
+14.benevolent -- (adj) friendly and helpful 
+15.camaraderie -- (n) trust, sociability amongst friends 
+16.censure -- (v) to criticize harshly 
+17.circuitous -- (adj) indirect, taking the longest route 
+18.clairvoyant -- (adj) exceptionally insightful, able to foresee the future 
+19.collaborate -- (v) to cooperate, work together 
+20.compassion -- (n) sympathy, helpfulness or mercy 
+21.compromise -- (v) to settle a dispute by terms agreeable to both sides 
+22.condescending -- (adj) possessing an attitude of superiority, patronizing 
+23.conditional -- (adj) depending on a condition, e.g., in a contract 
+24.conformist -- (n) person who complies with accepted rules and customs 
+25.congregation -- (n) a crowd of people, an assembly 
+26.convergence -- (n) the state of separate elements joining or coming together 
+27.deleterious -- (adj) harmful, destructive, detrimental 
+28.demagogue -- (n) leader, rabble-rouser, usually appealing to emotion or prejudice 
+29.digression -- (n) the act of turning aside, straying from the main point 
+30.diligent -- (adj) careful and hard-working 
+31.discredit -- (v) to harm the reputation of, dishonor or disgrace 
+32.disdain -- (v) to regard with scorn or contempt 
+33.divergent -- (adj) separating, moving in different directions from a particular point 
+34.empathy -- (n) identification with the feelings of others 
+35.emulate -- (v) to imitate, follow an example 
+36.enervating -- (adj) weakening, tiring 
+37.enhance -- (v) to improve, bring to a greater level of intensity 
+38.ephemeral -- (adj) momentary, transient, fleeting 
+39.evanescent -- (adj) quickly fading, short-lived, esp. an image 
+40.exasperation -- (n) irritation, frustration 
+41.exemplary -- (adj) outstanding, an example to others 
+42.extenuating -- (adj) excusing, lessening the seriousness of guilt or crime, e.g., of mitigating factors 
+43.florid -- (adj) red-colored, flushed; gaudy, ornate 
+44.fortuitous -- (adj) happening by luck, fortunate 
+45.frugal -- (adj) thrifty, cheap 
+46.hackneyed -- (adj) cliched, worn out by overuse 
+47.haughty -- (adj) arrogant and condescending 
+48.hedonist -- (n) person who pursues pleasure as a goal 
+49.hypothesis -- (n) assumption, theory requiring proof 
+50.impetuous -- (adj) rash, impulsive, acting without thinking 
+51.impute -- (v) to attribute an action to particular person or group 
+52.incompatible -- (adj) opposed in nature, not able to live or work together 
+53.inconsequential -- (adj) unimportant, trivial 
+54.inevitable -- (adj) certain, unavoidable 
+55.integrity -- (n) decency, honesty, wholeness 
+56.intrepid -- (adj) fearless, adventurous 
+57.intuitive -- (adj) instinctive, untaught 
+58.jubilation -- (n) joy, celebration, exultation 
+59.lobbyist -- (n) person who seeks to influence political events 
+60.longevity -- (n) long life 
+61.mundane -- (adj) ordinary, commonplace 
+62.nonchalant -- (adj) calm, casual, seeming unexcited 
+63.novice -- (n) apprentice, beginner 
+64.opulent -- (adj) wealthy 
+65.orator -- (n) lecturer, speaker 
+66.ostentatious -- (adj) showy, displaying wealth 
+67.parched -- (adj) dried up, shriveled 
+68.perfidious -- (adj) faithless, disloyal, untrustworthy 
+69.precocious -- (adj) unusually advanced or talented at an early age 
+70.pretentious -- (adj) pretending to be important, intelligent or cultured 
+71.procrastinate -- (v) to unnecessarily delay, postpone, put off 
+72.prosaic -- (adj) relating to prose; dull, commonplace 
+73.prosperity -- (n) wealth or success 
+74.provocative -- (adj) tending to provoke a response, e.g., anger or disagreement 
+75.prudent -- (adj) careful, cautious 
+76.querulous -- (adj) complaining, irritable 
+77.rancorous -- (adj) bitter, hateful 
+78.reclusive -- (adj) preferring to live in isolation 
+79.reconciliation -- (n) the act of agreement after a quarrel, the resolution of a dispute 
+80.renovation -- (n) repair, making something new again 
+81.resilient -- (adj) quick to recover, bounce back 
+82.restrained -- (adj) controlled, repressed, restricted 
+83.reverence -- (n) worship, profound respect 
+84.sagacity -- (n) wisdom 
+85.scrutinize -- (v) to observe carefully 
+86.spontaneity -- (n) impulsive action, unplanned events 
+87.spurious -- (adj) lacking authenticity, false 
+88.submissive -- (adj) tending to meekness, to submit to the will of others 
+89.substantiate -- (v) to verify, confirm, provide supporting evidence 
+90.subtle -- (adj) hard to detect or describe; perceptive 
+91.superficial -- (adj) shallow, lacking in depth 
+92.superfluous -- (adj) extra, more than enough, redundant 
+93.suppress -- (v) to end an activity, e.g., to prevent the dissemination of information 
+94.surreptitious -- (adj) secret, stealthy 
+95.tactful -- (adj) considerate, skillful in acting to avoid offense to others 
+96.tenacious -- (adj) determined, keeping a firm grip on 
+97.transient -- (adj) temporary, short-lived, fleeting 
+98.venerable -- (adj) respected because of age 
+99.vindicate -- (v) to clear from blame or suspicion 
+100.wary -- (adj) careful, cautious 
